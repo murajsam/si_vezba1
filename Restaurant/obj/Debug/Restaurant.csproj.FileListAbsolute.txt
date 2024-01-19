@@ -1,0 +1,30 @@
+C:\Users\MOJ PC\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\MOJ PC\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\MOJ PC\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\MOJ PC\source\repos\Restaurant\Restaurant\bin\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\source\repos\Restaurant\Restaurant\bin\Debug\DataLayer.dll
+C:\Users\MOJ PC\source\repos\Restaurant\Restaurant\bin\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\source\repos\Restaurant\Restaurant\bin\Debug\DataLayer.pdb
+C:\Users\MOJ PC\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\MOJ PC\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.Jelovnik.resources
+C:\Users\MOJ PC\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\MOJ PC\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\MOJ PC\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\MOJ PC\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CopyComplete
+C:\Users\MOJ PC\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\MOJ PC\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\Djole\Desktop\git_solution\si_vezba\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\Djole\Desktop\git_solution\si_vezba\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\Djole\Desktop\git_solution\si_vezba\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\Djole\Desktop\git_solution\si_vezba\Restaurant\bin\Debug\BusinessLayer.dll
+C:\Users\Djole\Desktop\git_solution\si_vezba\Restaurant\bin\Debug\DataLayer.dll
+C:\Users\Djole\Desktop\git_solution\si_vezba\Restaurant\bin\Debug\BusinessLayer.pdb
+C:\Users\Djole\Desktop\git_solution\si_vezba\Restaurant\bin\Debug\DataLayer.pdb
+C:\Users\Djole\Desktop\git_solution\si_vezba\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\Djole\Desktop\git_solution\si_vezba\Restaurant\obj\Debug\Restaurant.Jelovnik.resources
+C:\Users\Djole\Desktop\git_solution\si_vezba\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\Djole\Desktop\git_solution\si_vezba\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\Djole\Desktop\git_solution\si_vezba\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Djole\Desktop\git_solution\si_vezba\Restaurant\obj\Debug\Restaurant.csproj.CopyComplete
+C:\Users\Djole\Desktop\git_solution\si_vezba\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\Djole\Desktop\git_solution\si_vezba\Restaurant\obj\Debug\Restaurant.pdb

@@ -1,0 +1,18 @@
+C:\Users\MOJ PC\source\repos\Restaurant\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\source\repos\Restaurant\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\source\repos\Restaurant\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\MOJ PC\source\repos\Restaurant\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\MOJ PC\source\repos\Restaurant\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MOJ PC\source\repos\Restaurant\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MOJ PC\source\repos\Restaurant\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\MOJ PC\source\repos\Restaurant\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\source\repos\Restaurant\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Djole\Desktop\git_solution\si_vezba\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Djole\Desktop\git_solution\si_vezba\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Djole\Desktop\git_solution\si_vezba\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Djole\Desktop\git_solution\si_vezba\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Djole\Desktop\git_solution\si_vezba\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Djole\Desktop\git_solution\si_vezba\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Djole\Desktop\git_solution\si_vezba\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Djole\Desktop\git_solution\si_vezba\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Djole\Desktop\git_solution\si_vezba\BusinessLayer\obj\Debug\BusinessLayer.pdb
